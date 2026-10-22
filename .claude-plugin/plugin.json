@@ -1,0 +1,9 @@
+{
+  "name": "keylight",
+  "version": "0.1.0",
+  "description": "Integrate Keylight licensing and diagnose activation, entitlement, and offline verification failures.",
+  "author": { "name": "Keylight", "url": "https://keylight.dev" },
+  "homepage": "https://keylight.dev",
+  "repository": "https://github.com/keylight-dev/keylight-agents",
+  "license": "MIT"
+}
